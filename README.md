@@ -22,22 +22,22 @@ Click restaurant card to see details
 
 ## Installation and Execution
 
- 1. Clone this git to local in Terminal
+1. Clone this git to local in Terminal
 
  git clone https://github.com/mt5718214/A3_RestaurantList.git
 
- 2. Get into the directory
+2. Get into the directory
  
  cd 2-3_A3_restaurantList
 
- 3. Install packages
+3. Install packages
 
  npm Install
 
- 4. Run the project
+4. Run the project
 
  npm run dev or npm run start
 
- 5. link to the site
+5. link to the site
  
  Enter the URL:http://localhost:3000 in the browser
