@@ -37,3 +37,7 @@ Click restaurant card to see details
  4. Run the project
 
  npm run dev or npm run start
+
+ 5. link to the site
+ 
+ Enter the URL:http://localhost:3000 in the browser
